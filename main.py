@@ -1,8 +1,8 @@
+"""A simple Connect4 game."""
 from __future__ import annotations
 
 import enum
 from typing import Any
-
 
 BOARD_SIZE: int = 8
 
